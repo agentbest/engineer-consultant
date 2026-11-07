@@ -5,7 +5,7 @@
 - ロゴとファビコンだけは画像ファイル（同ディレクトリの `logo.png` / `logo-white.png` / `favicon.ico` / `icon-192.png` / `apple-touch-icon.png`）を参照する。原本は `C:\Users\user\ロゴ素材\`（生成スクリプト `make_assets.py` 付き）。
 - このLPはライト/ダークの両テーマ対応。**ヘッダーのロゴは黒文字版と白文字版の2枚を置き、CSSで出し分けている**（片方だけにすると暗い配色で社名が読めなくなる）。
 
-⚠ **名前が紛らわしい**: これは「**エンジニア→コンサル**」。「未経験→エンジニア」は別物で `engineer.agent-best.net` / `agentbest/engineer-lp`。
+⚠ **名前が紛らわしい**: これは「**エンジニア→コンサル**」。「未経験→エンジニア」は別物で `engineertenshoku.com` / `agentbest/engineer-lp`。
 
 ## ターゲットとトーン（変えるときは理由を確認する）
 
